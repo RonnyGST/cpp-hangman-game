@@ -14,4 +14,4 @@ User cannot type the same letter more than once<br>
 Each word has its corresponding clue
 
 # Demonstration
-![Game](/Demo/forca.gif)
+![Game](/demo/forca.gif)
